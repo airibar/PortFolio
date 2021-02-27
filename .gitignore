@@ -3,3 +3,5 @@
 
 # Webstorm project metadata
 .idea/
+/target/
+/bin/
